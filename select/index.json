@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "失恋ソング沢山聴いて 泣いてばかりの私はもう。acoustic ver.",
+  "base_artist": "りりあ。",
+  "createdAt": "2025-12-14T13:56:25.834153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。 (Acoustic Ver.)",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_失恋ソング沢山聴いて_泣いてばかりの私はもう。_(Acoustic_Ver.)_りりあ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。acoustic ver.",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_失恋ソング沢山聴いて_泣いてばかりの私はもう。acoustic_ver._りりあ。.txt"
+    }
+  ]
+}
